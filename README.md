@@ -1,4 +1,4 @@
-# Python_Dashboard_Project
+# Python_Dashboard_Project - Automobile Sales Statistics Dashboard
 # **Scenario:**
 The project is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
 ## **Components of the report items**
